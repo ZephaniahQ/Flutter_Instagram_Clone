@@ -5,14 +5,15 @@ This is a full stack instagram clone that uses flutter for cross-platform front-
 Currently implemented:
 
     - Login Page
-    ![Login page](screenshots/login_page.png)
-
     - Signup page
-    ![Signup page](screenshots/signup_page.png)
-
     - Auth page(no UI, selection btw Login or Signup)
 
 Todo:
 
     - Homepage
     - Feed
+
+Screenshots:
+
+![LoginPage](screenshots/login_page.png)
+![SignupPage](screenshots/signup_page.png)
