@@ -1,16 +1,18 @@
 # fluttergram
 
-A new Flutter project.
+This is a full stack instagram clone that uses flutter for cross-platform front-end and firebase as a cloud back-end
 
-## Getting Started
+Currently implemented:
 
-This project is a starting point for a Flutter application.
+    - Login Page
+    ![Login page](screenshots/login_page.png)
 
-A few resources to get you started if this is your first Flutter project:
+    - Signup page
+    ![Signup page](screenshots/signup_page.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    - Auth page(no UI, selection btw Login or Signup)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Todo:
+
+    - Homepage
+    - Feed
