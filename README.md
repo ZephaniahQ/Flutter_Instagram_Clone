@@ -15,5 +15,7 @@ Todo:
 
 Screenshots:
 
-![LoginPage](screenshots/login_page.png)
-![SignupPage](screenshots/signup_page.png)
+<p align="center">
+  <img src="screenshots/login_page.png" alt="Login Page" height="500"/>
+  <img src="screenshots/signup_page.png" alt="Signup Page" height="500"/>
+</p>
