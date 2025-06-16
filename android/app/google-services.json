@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019916284957",
+    "project_id": "instagram-de28a",
+    "storage_bucket": "instagram-de28a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019916284957:android:4a1b76ed4dbb70127f82f4",
+        "android_client_info": {
+          "package_name": "com.example.fluttergram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBibR9o5OIfTrhI0xLHodTBMvRj-zWEFzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
